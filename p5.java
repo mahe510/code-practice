@@ -10,5 +10,6 @@ class p5_5709
 		String second = sc.nextLine();
 		System.out.println("reverse order is");
 		System.out.println(second +" "+ first);
+		return 0;
 	}
 }
